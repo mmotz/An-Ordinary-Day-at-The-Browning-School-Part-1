@@ -118,7 +118,7 @@ class Space < Scene
       puts "\n"
         puts "You died, what didja think would happen?"
         return 'death'
-      elsif space act == "3"
+      elsif spaceact == "3"
       puts "\n"
         puts "You go inside, as if nothing ever happened"
         puts "YOU WIN"
